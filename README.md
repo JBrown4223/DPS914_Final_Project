@@ -71,5 +71,5 @@ The LA Dodgers are one of my favorite baseball teams and baseball is a sport tha
 ![](Images/code_snippet5.JPG)
 ![](Images/regressionOutput.JPG)
 
-##To Learn More
-[https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-daal-for-windows/top.html]
+## To Learn More
+https://software.intel.com/content/www/us/en/develop/documentation/get-started-with-daal-for-windows/top.html
