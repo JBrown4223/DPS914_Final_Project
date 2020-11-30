@@ -1,0 +1,16 @@
+AJ-Pollock,0.917
+Austin-Barnes,0.483
+Chris-Taylor,0.933
+Cody-Bellinger,0.933
+Corey-Seager,0.867
+Edwin-Rios,0.533
+Kike-Hernandez,0.800
+Gavin-Lux,0.317
+Joc-Pederson,0.717
+Justin-Turner,0.700
+Matt-Beaty,0.350
+Max-Muncy,0.967
+Mookie-Betts,0.917
+Will-Smith,0.617
+Zach-McKinstry,0.067
+Keibert-Ruiz,0.033
