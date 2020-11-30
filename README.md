@@ -46,9 +46,9 @@ The LA Dodgers are one of my favorite baseball teams and baseball is a sport tha
 
 ## How It Works
 ***
-![](daal1.png)
+![](Images/daal1.png)
 
-![](daal2.png)
+![](Images/daal2.png)
 
 ## How to use DAAL
 ***
