@@ -13,7 +13,7 @@ The Intel DAAL provides  high efficiency algorithms for the purposes of analyzin
 ## Project Scope
 ***
 
-The LA Dodgers are one of my favorite baseball teams and baseball is a sport that uses mathematical analytics to predict success. I am going to use Intel’s Data Analysis Acceleration Library to predict the LA Dodgers batting stats for the 2021 baseball season. The MLB hasn’t announced how many games the next season will have because of Covid-19 so, the program will be able to adjust based on the number of games. I am going to focus on the following features of DAAL, Low Order, Regression Analysis, and Batch Processing. I am going to use statistics from the last 2 years from baseball reference. 
+The LA Dodgers are one of my favorite baseball teams and baseball is a sport that uses mathematical analytics to predict success. I am going to use Intel’s Data Analysis Acceleration Library to predict the LA Dodgers batting stats for the 2021 baseball season. The MLB hasn’t announced how many games the next season will have because of Covid-19 so, the program will be able to adjust based on the number of games. I am going to focus on the following features of DAAL, Low Order, Regression Analysis, and Distributed Processing. I am going to use statistics from the last 2 years from baseball reference. 
 
 ## Functions of Intel DAAL
 ***
