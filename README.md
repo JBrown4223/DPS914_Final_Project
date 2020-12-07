@@ -57,7 +57,7 @@ The LA Dodgers are one of my favorite baseball teams and baseball is a sport tha
 ![](Images/set-up2.JPG)
 
 
-## Project - Low Order/ Batch Processing
+## Project - Low Order - Distributed
 ***
 ![](Images/code_snippet1.JPG)
 ![](Images/code_snippet2.JPG)
