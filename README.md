@@ -56,6 +56,17 @@ The LA Dodgers are one of my favorite baseball teams and baseball is a sport tha
 
 ![](Images/set-up2.JPG)
 
+## Benefits
+***
+ - Easy To Use
+ - Algorithms do the work for you
+ - Supports SQL
+ 
+## Limitations
+ ***
+ - Raw Data Only
+ - Imports well but does not export 
+ - Difficult to customize 
 
 ## Project - Low Order - Distributed
 ***
